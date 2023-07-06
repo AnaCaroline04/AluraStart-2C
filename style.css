@@ -67,3 +67,7 @@ h1{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
+
+.rodape{
+    background-color:rgb(214, 29, 159);
+}
